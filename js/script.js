@@ -9,11 +9,11 @@ $(document).ready(function () {
 /*
   // Make nav appear on scrolldown
   $(window).scroll(function () {
-    if ($(this).scrollTop() > 250) {
+    if ($(this).scrollTop() > 1) {
       $('nav').fadeIn(500);
     } else {
       $('nav').fadeOut(500);
     }
   });
-*/
+ */
 });

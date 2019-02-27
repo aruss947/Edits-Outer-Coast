@@ -1,13 +1,13 @@
 ### Apply
 
-<strong> Applications will be accepted from Tuesday, January 15 to Friday, February 15, 2019. </strong> 
+<strong> Applications will be accepted until March 1, 2019. </strong>
 
 Application includes:
 
 1. Electronic or paper application with attached:
     - a. Short and long answer questions
     - b. Official or unofficial transcript
-2. Teacher Recommendation (due February 22, 2019)
+2. Teacher Recommendation
 
 Current high school sophomores and juniors are eligible to apply. Students do not need to be nominated to apply.
 
@@ -16,8 +16,7 @@ Current high school sophomores and juniors are eligible to apply. Students do no
   <a href="https://fs29.formsite.com/Gd7elL/sgeaffeme8/index.html" class="waves-effect waves-default btn white grey-text text-darken-4">Apply Online</a>
 </div>
 <div class="center-align bottom-appeal">
-  <a href="https://drive.google.com/file/d/1R-6Nvi1qNhuaTgJN_9HF9dcmBZmrhY9i/view" class="waves-effect waves-default btn white grey-text text-darken-4">Download PDF to Apply by Mail</a>
+  <a href="https://drive.google.com/file/d/1IKUEm0BOp1sh8PZdxtbIz3PyrxTO3F5K/view?usp=sharing" class="waves-effect waves-default btn white grey-text text-darken-4">Download PDF to Apply by Mail</a>
 </div>
-
 
 For more program and eligibility information, visit the [Overview](../overview.html).
