@@ -136,11 +136,13 @@ nav li {
   margin: 0;
 }
 
+/*
 nav ul li ul li {
   float: left; 
   position: relative; 
   display: block; 
 }
+*/
 
 #submenu-stack {
   display: block; 
@@ -148,10 +150,12 @@ nav ul li ul li {
   background-color: red; 
 }
 
+/*
 nav ul li ul {
   float: left; 
   position: relative; 
 }
+*/
 
 nav li a:hover {
   text-decoration: none;
@@ -167,9 +171,8 @@ nav .dropdown-items {
 }
 
 nav .dropdown-items li {
-  position: relative;
-  float: left; 
-  display: block; 
+  position: absolute !important;
+  display: block !important; 
 }
 
 nav .dropdown-buttons:hover .dropdown-items {
