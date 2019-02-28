@@ -170,10 +170,12 @@ nav .dropdown-items {
   z-index: 1;
 }
 
+/*
 nav .dropdown-items li {
   position: absolute !important;
   display: block !important; 
 }
+*/
 
 nav .dropdown-buttons:hover .dropdown-items {
   display: block;
