@@ -139,16 +139,17 @@ nav li {
 
 nav ul li ul li a {
   float: left; 
-  position: relative; 
+  display: block; 
   background-color: red; 
 }
 
-
+/*
 #submenu-stack {
   display: block; 
   position: absolute; 
   float: left; 
 }
+*/
 
 /*
 nav ul li ul {
@@ -168,6 +169,7 @@ nav .dropdown-items {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  font-size: 12px; 
 }
 
 /*
