@@ -136,13 +136,13 @@ nav li {
   margin: 0;
 }
 
-/*
-nav ul li ul li {
+
+nav ul li ul li a {
   float: left; 
   position: relative; 
-  display: block; 
+  background-color: red; 
 }
-*/
+
 
 #submenu-stack {
   display: block; 
