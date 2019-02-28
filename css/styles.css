@@ -171,7 +171,7 @@ nav .dropdown-items {
 }
 
 nav .dropdown-items li {
-  position: absolute !important;
+  position: relative !important;
   display: block !important; 
 }
 
