@@ -134,6 +134,7 @@ nav .brand-logo, nav ul a {
 
 nav li {
   margin: 0;
+  color: #FF0000 !important; 
 }
 
 nav li a:hover {
@@ -151,7 +152,6 @@ nav .dropdown-items {
 
 nav .dropdown-buttons:hover .dropdown-items {
   display: block;
-  color: #FF0000 !important; 
 }
 
 p {
