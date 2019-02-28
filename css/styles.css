@@ -139,6 +139,7 @@ nav li {
 nav ul li ul li {
   float: left; 
   position: relative; 
+  display: block; 
 }
 
 nav ul li ul {
