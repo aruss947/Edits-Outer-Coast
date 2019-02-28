@@ -140,7 +140,6 @@ nav li {
 nav ul li ul li a {
   float: none; 
   display: block; 
-  background-color: red; 
   overflow: hidden; 
 }
 
