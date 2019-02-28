@@ -138,19 +138,17 @@ nav li {
 
 
 nav ul li ul li a {
-  float: left; 
+  float: none; 
   display: block; 
   background-color: red; 
   overflow: hidden; 
 }
 
-/*
+
 #submenu-stack {
   display: block; 
-  position: absolute; 
-  float: left; 
+  float: none; 
 }
-*/
 
 /*
 nav ul li ul {
