@@ -142,6 +142,11 @@ nav ul li ul li {
   display: block; 
 }
 
+#submenu-stack {
+  display: block; 
+  position: relative; 
+}
+
 nav ul li ul {
   float: left; 
   position: relative; 
