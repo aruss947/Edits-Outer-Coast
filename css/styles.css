@@ -147,11 +147,11 @@ nav .dropdown-items {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  color: #FF0000 !important; 
 }
 
 nav .dropdown-buttons:hover .dropdown-items {
   display: block;
+  color: #FF0000 !important; 
 }
 
 p {
