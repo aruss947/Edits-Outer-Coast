@@ -137,7 +137,7 @@ nav li {
 }
 
 nav ul li ul li {
-  color: #FF0000 !important; 
+  background-color: #FF0000 !important; 
   display: block !important; 
   float: left; 
   position: relative; 
