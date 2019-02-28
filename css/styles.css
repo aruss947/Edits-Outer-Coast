@@ -138,7 +138,9 @@ nav li {
 
 nav ul li ul li {
   color: #FF0000 !important; 
-  display: block; 
+  display: block !important; 
+  float: left; 
+  position: relative; 
 }
 
 nav li a:hover {
