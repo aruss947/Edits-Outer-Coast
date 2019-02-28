@@ -134,7 +134,12 @@ nav .brand-logo, nav ul a {
 
 nav li {
   margin: 0;
+}
+
+nav ul li ul li {
   color: #FF0000 !important; 
+  background-color: #FF0000 !important; 
+  text-transform: uppercase !important; 
 }
 
 nav li a:hover {
