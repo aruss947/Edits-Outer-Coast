@@ -137,7 +137,6 @@ nav li {
 }
 
 nav ul li ul li {
-  display: inline-block !important; 
   float: left; 
   position: relative; 
 }
