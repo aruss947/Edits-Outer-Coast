@@ -145,6 +145,7 @@ nav ul li ul li {
 #submenu-stack {
   display: block; 
   position: relative; 
+  background-color: red; 
 }
 
 nav ul li ul {
