@@ -138,8 +138,7 @@ nav li {
 
 nav ul li ul li {
   color: #FF0000 !important; 
-  background-color: #FF0000 !important; 
-  text-transform: uppercase !important; 
+  display: block; 
 }
 
 nav li a:hover {
