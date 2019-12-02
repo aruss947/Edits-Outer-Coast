@@ -503,16 +503,8 @@ iframe.google-form {
   box-sizing: border-box;
 }
 
-.homepage-banner-top a {
- color: #fff;  
-}
-
-.homepage-banner-top a:hover {
- color: #00ffff;  
-}
-
 .homepage-banner-top:hover {
- background-color: #83606B;  
+ background-color: #606B83;  
 }
 
 .homepage-banner-top-second {
@@ -524,16 +516,8 @@ iframe.google-form {
   margin-top: -45px; 
 }
 
-.homepage-banner-top a {
- color: #fff;  
-}
-
-.homepage-banner-top a:hover {
- color: #00ffff;  
-}
-
-.homepage-banner-top:hover {
- background-color: #83606B;  
+.homepage-banner-top-second:hover {
+ background-color: #606B83;  
 }
 
 .homepage-banner-top-third {
@@ -545,16 +529,8 @@ iframe.google-form {
   margin-top: -45px; 
 }
 
-.homepage-banner-top a {
- color: #fff;  
-}
-
-.homepage-banner-top a:hover {
- color: #00ffff;  
-}
-
-.homepage-banner-top:hover {
- background-color: #83606B;  
+.homepage-banner-top-third:hover {
+ background-color: #606B83;  
 }
 
 /* Styles the banner on the other pages  */
