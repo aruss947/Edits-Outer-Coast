@@ -500,6 +500,7 @@ iframe.google-form {
   padding-top: 1px; 
   padding-bottom: 1px; 
   margin-top: -45px; 
+  box-sizing: border-box;
 }
 
 .homepage-banner-top a {
