@@ -510,6 +510,53 @@ iframe.google-form {
  color: #00ffff;  
 }
 
+.homepage-banner-top:hover {
+ background-color: #83606B;  
+}
+
+.homepage-banner-top-second {
+  text-align: center; 
+  color: #fff !important; 
+  background-color: #83607C; 
+  padding-top: 1px; 
+  padding-bottom: 1px; 
+  margin-top: -45px; 
+}
+
+.homepage-banner-top a {
+ color: #fff;  
+}
+
+.homepage-banner-top a:hover {
+ color: #00ffff;  
+}
+
+.homepage-banner-top:hover {
+ background-color: #83606B;  
+}
+
+.homepage-banner-top-third {
+  text-align: center; 
+  color: #fff !important; 
+  background-color: #7C8360; 
+  padding-top: 1px; 
+  padding-bottom: 1px; 
+  margin-top: -45px; 
+}
+
+.homepage-banner-top a {
+ color: #fff;  
+}
+
+.homepage-banner-top a:hover {
+ color: #00ffff;  
+}
+
+.homepage-banner-top:hover {
+ background-color: #83606B;  
+}
+
+/* Styles the banner on the other pages  */
 .homepage-banner-top-2 {
   text-align: center; 
   color: #fff !important; 
