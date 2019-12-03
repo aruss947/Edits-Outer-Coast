@@ -181,11 +181,13 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-stack:hover .sub-dropdown-items {
-  display: block;
+  display: inline-block;
   position:static;
   right:0px;
   top:0px;
 }
+
+/*fonts */
 
 p {
   font-size: 1.1rem;
