@@ -180,7 +180,13 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-stack:hover .sub-dropdown-items {
-  display: inline;
+  display: block;
+}
+
+#submenu-right {
+  position: absolute; 
+  top: 100px; 
+  left: 100px; 
 }
 
 /*fonts */
