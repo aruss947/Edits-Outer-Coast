@@ -181,8 +181,9 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-stack:hover .sub-dropdown-items {
-  display: inline-block;
-  position:static;
+  display: block;
+  position: relative;
+  float: right; 
   right:0px;
   top:0px;
 }
