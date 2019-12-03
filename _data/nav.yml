@@ -14,6 +14,9 @@ top:
         page: cost-of-attendance.html
       - name: Summer Seminar 2018
         page: summer-seminar-2018.html
+        subsubfolderitems:
+          - name: About
+            page: overview.html
   - name: F.A.Q.
     page: faq.html
   - name: News
