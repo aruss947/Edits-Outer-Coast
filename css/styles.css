@@ -182,10 +182,9 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 #submenu-stack:hover .sub-dropdown-items {
   display: block;
-  position: relative;
-  float: right; 
-  right:0px;
-  top:0px;
+  position: absolute; 
+  left:100px;
+  top:100px;
 }
 
 /*fonts */
