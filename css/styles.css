@@ -151,7 +151,7 @@ nav ul li ul li a {
   overflow: hidden; 
 }
 
-nav ul li ul:last-child {
+nav ul li:last-child {
   background-color: #607C83 !important; 
   color: #fff !important; 
 }
