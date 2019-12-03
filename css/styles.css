@@ -179,6 +179,10 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: none;
 }
 
+#submenu-stack:hover .sub-dropdown-items {
+  display: inline;
+}
+
 /*fonts */
 
 p {
