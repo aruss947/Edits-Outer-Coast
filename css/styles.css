@@ -175,6 +175,9 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: block;
 }
 
+.sub-dropdown-items {
+  display: none;
+}
 
 /*fonts */
 
