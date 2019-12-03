@@ -186,7 +186,6 @@ nav .dropdown-buttons:hover .dropdown-items {
 #submenu-right {
   top: 300px; 
   left: 300px; 
-  display: inline-block;
   position: relative;
 }
 
