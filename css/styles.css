@@ -146,8 +146,8 @@ nav ul li:last-child {
   background-color: #607C83; 
 }
 
-nav ul li a {
-  color: #fff; 
+nav ul li:last-child a {
+  color: #fff !important; 
 }
 
 nav ul li:last-child:hover {
