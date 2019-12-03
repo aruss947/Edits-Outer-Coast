@@ -175,23 +175,6 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: block;
 }
 
-.sub-dropdown-items {
-  display: none;
-}
-
-#submenu-stack:hover .sub-dropdown-items {
-  display: block;
-  position: absolute; 
-  left:100px;
-  top:100px;
-}
-
-#submenu-right {
-  display: block;
-  position: absolute; 
-  left:100px;
-  top:100px;
-}
 
 /*fonts */
 
