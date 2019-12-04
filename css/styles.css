@@ -195,10 +195,9 @@ nav .dropdown-buttons:hover .dropdown-items {
   min-width: 160px;
 }
 
-.right.hide-on-med-and-down li ul li ul li {
+.right.hide-on-med-and-down li ul li ul {
   background-color: red !important; 
   display: block;
-  position: fixed; 
 }
 
 /*fonts */
