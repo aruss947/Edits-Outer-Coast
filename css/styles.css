@@ -150,19 +150,19 @@ nav ul li:nth-last-child(2) {
   background-color: #6B8360; 
 }
 
-.right.hide-on-med-and-down>li:last-child {
+.right.hide-on-med-and-down > li:last-child {
   color: #fff !important; 
 }
 
-.right.hide-on-med-and-down>li:nth-last-child(2) a {
+.right.hide-on-med-and-down > li:nth-last-child(2) a {
   color: #fff !important;  
 }
 
-.right.hide-on-med-and-down>li:last-child:hover {
+.right.hide-on-med-and-down > li:last-child:hover {
   background-color: #A3B29C; 
 }
 
-.right.hide-on-med-and-down>li:nth-last-child(2):hover {
+.right.hide-on-med-and-down > li:nth-last-child(2):hover {
   background-color: #A3B29C; 
 }
 
@@ -202,7 +202,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   overflow: hidden;
 }
 
-.right.hide-on-med-and-down li ul li a {
+.right.hide-on-med-and-down li ul li ul li {
   background-color: red !important; 
 }
 
