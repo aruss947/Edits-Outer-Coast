@@ -195,15 +195,11 @@ nav .dropdown-buttons:hover .dropdown-items {
   min-width: 160px;
 }
 
-#submenu-stack:hover .sub-dropdown-items {
-  display: block;
-  width: 100%;
-  z-index: 1;
-  overflow: hidden;
-}
-
 .right.hide-on-med-and-down li ul li ul li {
   background-color: red !important; 
+  width: 100%;
+  overflow: hidden;
+  display: block;
 }
 
 /*fonts */
