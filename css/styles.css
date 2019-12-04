@@ -142,11 +142,11 @@ nav ul li ul li a {
   overflow: hidden; 
 }
 
-nav ul li:last-child {
+.right.hide-on-med-and-down > li:last-child {
   background-color: #7E9374; 
 }
 
-nav ul li:nth-last-child(2) {
+.right.hide-on-med-and-down > li:nth-last-child(2) {
   background-color: #6B8360; 
 }
 
