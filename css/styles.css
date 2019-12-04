@@ -193,13 +193,16 @@ nav .dropdown-buttons:hover .dropdown-items {
 .sub-dropdown-items {
   display: none;
   min-width: 160px;
+  position: relative; 
+  top: 1000px; 
+  left: 1000px; 
+  background-color: purple !important; 
 }
 
 .right.hide-on-med-and-down li ul li ul {
   background-color: red !important; 
   display: block;
 }
-
 /*fonts */
 
 p {
