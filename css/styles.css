@@ -197,9 +197,8 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 .right.hide-on-med-and-down li ul li ul li {
   background-color: red !important; 
-  width: 100%;
-  overflow: hidden;
   display: block;
+  position: absolute; 
 }
 
 /*fonts */
