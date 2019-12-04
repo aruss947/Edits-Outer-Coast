@@ -154,15 +154,15 @@ li.dropdown-buttons:last-of-type {
   color: #fff !important; 
 }
 
-nav ul li:nth-last-child(2) a {
+.right.hide-on-med-and-down li:nth-last-child(2) a {
   color: #fff !important;  
 }
 
-nav ul li:last-child:hover {
+.right.hide-on-med-and-down li:last-child:hover {
   background-color: #A3B29C; 
 }
 
-nav ul li:nth-last-child(2):hover {
+.right.hide-on-med-and-down li:nth-last-child(2):hover {
   background-color: #A3B29C; 
 }
 
@@ -203,7 +203,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 .right.hide-on-med-and-down li ul li a {
-  background-color: #A3B29C !important; 
+  background-color: red !important; 
 }
 
 /*fonts */
