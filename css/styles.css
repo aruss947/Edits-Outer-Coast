@@ -150,7 +150,7 @@ nav ul li ul li a {
   background-color: #6B8360; 
 }
 
-.right.hide-on-med-and-down > li:last-child {
+.right.hide-on-med-and-down > li:last-child a {
   color: #fff !important; 
 }
 
