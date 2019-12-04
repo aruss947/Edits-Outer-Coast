@@ -150,7 +150,7 @@ nav ul li:nth-last-child(2) {
   background-color: #6B8360; 
 }
 
-.right .hide-on-med-and-down li:last-child a {
+nav.right.hide-on-med-and-down li:last-child a {
   color: #fff !important; 
 }
 
