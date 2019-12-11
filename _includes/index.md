@@ -26,6 +26,11 @@ We think otherwise. We think a college education can be affordable and transform
   {% include img-materialboxed.html image=site.data.images.front_page.above_three_pillars %}
 </div>
 
+<div class="center">
+<iframe src="https://player.vimeo.com/video/375164979" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/375164979">Outer Coast Video</a> from <a href="https://vimeo.com/user105442926">Outer Coast</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </div>
+
 ***
 
 ## Three Pillars
