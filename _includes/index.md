@@ -27,7 +27,7 @@ We think otherwise. We think a college education can be affordable and transform
 </div>
 
 <div class="center">
-<iframe src="https://player.vimeo.com/video/375164979" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/375164979" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/375164979">Outer Coast Video</a> from <a href="https://vimeo.com/user105442926">Outer Coast</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   </div>
 
