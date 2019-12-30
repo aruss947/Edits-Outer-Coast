@@ -527,15 +527,9 @@ iframe.google-form {
   }
 }
 
-@media screen and (min-width: 1020px) {
+@media screen and (min-width: 700px) {
   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
       min-height: 110px; 
-  }
-}
-
-@media screen and (min-width: 700px) and (max-width: 1020px) {
-   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
-      min-height: 160px; 
   }
 }
 
