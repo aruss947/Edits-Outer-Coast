@@ -527,6 +527,24 @@ iframe.google-form {
   }
 }
 
+@media screen and (min-width: 1020px) {
+  .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 350px; 
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1020px) {
+   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 500px; 
+  }
+}
+
+@media screen and (max-width: 700px) {
+   .homepage-banner-top, .homepage-banner-top-second, .homepage-banner-top-third {
+      min-height: 100px; 
+  }
+}
+
 .homepage-banner-top {
   text-align: center; 
   color: #fff !important; 
