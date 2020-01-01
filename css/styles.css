@@ -546,6 +546,7 @@ iframe.google-form {
   padding-top: 1px; 
   padding-bottom: 1px;
   box-sizing: border-box;
+  display: block;
 }
 
 .homepage-banner-top:hover {
@@ -558,6 +559,7 @@ iframe.google-form {
   background-color: #485D62; 
   padding-top: 1px; 
   padding-bottom: 1px; 
+  display: block;
 }
 
 .homepage-banner-top-second:hover {
@@ -570,6 +572,7 @@ iframe.google-form {
   background-color: #3C4E52; 
   padding-top: 1px; 
   padding-bottom: 1px; 
+  display: block;
 }
 
 .homepage-banner-top-third:hover {
