@@ -8,7 +8,7 @@ sitemap:
 
 {% include slider.html photos=site.data.images.front_page.top %}
 <div class="row">
-  <div class="col s12 m3 homepage-banner-top"><form action="http://google.com"><button type="submit" value="Apply here" /></form> </div>
+  <div class="col s12 m3 homepage-banner-top"><button href="http://outercoast.org/summer/apply/" target="_blank"><p>Apply to the Summer Seminar</p></button></div>
    <a href="http://outercoast.org/summer/apply/" target="_blank"><div class="col s12 m3 homepage-banner-top"><p>Apply to the Summer Seminar</p></div></a>
   <a href="http://outercoast.org/year/" target="_blank"><div class="col s12 m3 homepage-banner-top-second"><p>Apply to the Outer Coast Year</p></div></a>
   <a href="https://www.nytimes.com/2019/06/08/opinion/sunday/college-anti-college-mainstream-universities.html" target="_blank"><div class="col s12 m3 homepage-banner-top-third"><p>Read about us in The New York Times</p></div></a>
@@ -17,7 +17,6 @@ sitemap:
 
 <div class="main-section index-page">
   <div class="container">
-    <div class="col s12 m3 homepage-banner-top"><button href="http://outercoast.org/summer/apply/" target="_blank"><p>Apply to the Summer Seminar</p></button></div>
 
     {% capture my-include %}{% include index.md %}{% endcapture %}
     {{ my-include | markdownify }}
