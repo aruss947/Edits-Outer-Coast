@@ -178,7 +178,7 @@ nav li a:hover {
 
 nav .dropdown-items {
   display: none;
-  position: relative;
+  position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -196,6 +196,12 @@ nav .dropdown-buttons:hover .dropdown-items {
   position: absolute; 
   background-color: purple !important; 
 }
+
+nav .sub-dropdown-items:hover #submenu-right {
+  display: block;
+}
+
+
 
 .right.hide-on-med-and-down li ul li ul {
   background-color: red !important; 
