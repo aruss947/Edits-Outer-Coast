@@ -198,7 +198,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 .sub-dropdown-items:hover #submenu-right {
-  display: block;
+  display: inline-block;
 }
 
 
