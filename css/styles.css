@@ -191,6 +191,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: block;
 }
 
+/*
 .sub-dropdown-items {
   min-width: 160px;
   position: absolute; 
@@ -210,7 +211,13 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 */
 
-
+#submenu-stack:hover .sub-dropdown-items {
+  display: block;
+  display: inline-block;
+  position:static;
+  right:0px;
+  top:0px;
+}
 
 .right.hide-on-med-and-down li ul li ul {
   background-color: red !important; 
