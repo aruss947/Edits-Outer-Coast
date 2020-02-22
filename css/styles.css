@@ -211,16 +211,16 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 */
 
-.sub-dropdown-items {
-  display: none; 
-}
-
 #submenu-stack:hover .sub-dropdown-items {
   display: block;
   display: inline-block;
   position:static;
   right:0px;
   top:0px;
+}
+
+.sub-dropdown-items {
+  display: none; 
 }
 
 .right.hide-on-med-and-down li ul li ul {
