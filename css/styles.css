@@ -166,12 +166,6 @@ nav ul li ul li a {
   background-color: #A3B29C; 
 }
 
-#submenu-stack {
-  display: block; 
-  float: none; 
-  position: relative; 
-}
-
 nav li a:hover {
   text-decoration: none;
 }
@@ -209,6 +203,13 @@ nav .dropdown-buttons:hover .dropdown-items {
 .sub-dropdown-items:hover #submenu-right {
   display: inline-block;
 }
+
+#submenu-stack {
+  display: block; 
+  float: none; 
+  position: relative; 
+}
+
 */
 
 #submenu-stack:hover .sub-dropdown-items {
