@@ -219,6 +219,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 #submenu-stack:hover .sub-dropdown-items {
   display: inline-block;
+  display: block; 
   position: absolute;
   right:0px;
   top:0px;
