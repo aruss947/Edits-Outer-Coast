@@ -204,13 +204,18 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: inline-block;
 }
 
+.right.hide-on-med-and-down li ul li ul {
+  background-color: red !important; 
+  display: block;
+}
+
+*/
+
 #submenu-stack {
   display: block; 
   float: none; 
   position: relative; 
 }
-
-*/
 
 #submenu-stack:hover .sub-dropdown-items {
   display: block;
@@ -224,10 +229,6 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: none; 
 }
 
-.right.hide-on-med-and-down li ul li ul {
-  background-color: red !important; 
-  display: block;
-}
 /*fonts */
 
 p {
