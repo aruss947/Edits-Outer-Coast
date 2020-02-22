@@ -223,6 +223,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   position: absolute;
   right:0px;
   top:0px;
+  left: 100px; 
 }
 
 .sub-dropdown-items {
