@@ -211,6 +211,10 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 */
 
+.sub-dropdown-items {
+  display: none; 
+}
+
 #submenu-stack:hover .sub-dropdown-items {
   display: block;
   display: inline-block;
