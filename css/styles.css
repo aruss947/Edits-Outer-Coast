@@ -169,6 +169,7 @@ nav ul li ul li a {
 #submenu-stack {
   display: block; 
   float: none; 
+  position: relative; 
 }
 
 nav li a:hover {
