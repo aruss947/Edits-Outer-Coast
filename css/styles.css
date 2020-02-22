@@ -197,9 +197,18 @@ nav .dropdown-buttons:hover .dropdown-items {
   background-color: purple !important; 
 }
 
+#submenu-right {
+  position: relative; 
+  top: 300px; 
+  left: 300px; 
+  display: inline-block;
+}
+
+/*
 .sub-dropdown-items:hover #submenu-right {
   display: inline-block;
 }
+*/
 
 
 
