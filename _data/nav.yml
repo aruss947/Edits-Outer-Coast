@@ -16,6 +16,8 @@ top:
         subsubfolderitems:
           - name: About
             page: overview.html
+          - name: News
+            page: overview.html
   - name: F.A.Q.
     page: faq.html
   - name: News
