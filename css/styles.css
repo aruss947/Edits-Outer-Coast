@@ -197,7 +197,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   background-color: purple !important; 
 }
 
-nav .sub-dropdown-items:hover #submenu-right {
+.sub-dropdown-items:hover #submenu-right {
   display: block;
 }
 
