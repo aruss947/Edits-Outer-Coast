@@ -221,9 +221,8 @@ nav .dropdown-buttons:hover .dropdown-items {
   position: absolute;
   right:0px;
   top:0px;
-  left: 200px; 
+  left: 220px; 
   z-index: 1000; 
-  background-color: red !important; 
   overflow: visible; 
 }
 
@@ -233,6 +232,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 
 #submenu-right {
   background-color: blue !important; 
+  min-width: 120px; 
 }
 
 /*fonts */
