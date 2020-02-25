@@ -226,6 +226,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   left: 160px; 
   z-index: 1000; 
   background-color: red !important; 
+  overflow: visible; 
 }
 
 .sub-dropdown-items {
