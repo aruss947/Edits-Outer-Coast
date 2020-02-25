@@ -183,31 +183,9 @@ nav .dropdown-buttons:hover .dropdown-items {
   display: block;
 }
 
-/*
-.sub-dropdown-items {
-  min-width: 160px;
-  position: absolute; 
-  background-color: purple !important; 
+#mobile-submenu {
+  margin-left: 15px; 
 }
-
-#submenu-right {
-  position: relative; 
-  top: 300px; 
-  left: 300px; 
-  display: inline-block;
-}
-
-/*
-.sub-dropdown-items:hover #submenu-right {
-  display: inline-block;
-}
-
-.right.hide-on-med-and-down li ul li ul {
-  background-color: red !important; 
-  display: block;
-}
-
-*/
 
 #submenu-stack {
   display: block; 
