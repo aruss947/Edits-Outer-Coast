@@ -5,7 +5,7 @@
         {% if link.subfolderitems[0] %}
         <ul>
           {% for link in link.subfolderitems %}
-          <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+          <li id="mobile-submenu"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
         {% endfor %}
         </ul>
         {% endif %}
