@@ -1,29 +1,42 @@
+<! –– this is the mobile menu -->
+
 <ul id="dropdown1" class="dropdown-content">
   {% if site.data.nav.top[0] %}
-  {% for link in site.data.nav.top %}
-  <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+    {% for link in site.data.nav.top %}
+      <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
         {% if link.subfolderitems[0] %}
-        <ul>
-          {% for link in link.subfolderitems %}
-          <li id="mobile-submenu"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
-        {% endfor %}
-        </ul>
-        {% endif %}
+          <ul>
+           {% for link in link.subfolderitems %}
+              <li id="mobile-submenu"><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a>
+                {% if link.subsubfolderitems[0] %}
+                    <ul>
+                      {% for link in link.subsubfolderitems %}
+                        <li><a href="{{ site.root }}/{{ link.page }}" class="blue-grey-text">{{ link.name }}</a></li>
+                      {% endfor %}
+                    </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+           </ul>
+       {% endif %}
       </li>
-  {% endfor %}
+     {% endfor %}
   {% endif %}
 </ul>
+
+<! –– this is the logo -->
 
 <nav class="white blue-text">
   <div class="nav-wrapper">
 
-    <ul>
+    <ul> 
       <li>
         <a href="{{ site.root }}/" class="blue-grey-text brand-logo">Outer Coast</a>
       </li>
     </ul>
     
-
+<! –– this is the desktop menu -->
+    
      <ul class="right hide-on-med-and-down">
       {% if site.data.nav.top[0] %}
         {% for link in site.data.nav.top %}
