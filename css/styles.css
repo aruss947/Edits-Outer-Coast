@@ -221,7 +221,7 @@ nav .dropdown-buttons:hover .dropdown-items {
   position: absolute;
   right:0px;
   top:0px;
-  left: 205px; 
+  left: 207px; 
   z-index: 1000; 
   overflow: visible; 
 }
@@ -231,8 +231,7 @@ nav .dropdown-buttons:hover .dropdown-items {
 }
 
 #submenu-right {
-  background-color: blue !important; 
-  min-width: 120px; 
+  min-width: 150px; 
 }
 
 /*fonts */
